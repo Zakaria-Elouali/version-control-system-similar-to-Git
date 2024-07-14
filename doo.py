@@ -1,0 +1,2 @@
+import libsdoo
+libsdoo.main()
